@@ -12,9 +12,9 @@ the calcultion of the ect and using a cnn is from this tutorial: https://github.
 ### for analysis by groups
 create the following folder structure within the home directory, a folder for the ect analysis and sub-folders for outline inputs and ect outputs.
 
-+--group_ect_analysis
-|    +--outline_input
-|    +--ect_output
++--group_ect_analysis  
+|    +--outline_input  
+|    +--ect_output  
 
 additionally, add dataloaders.py, models.py, and utils.py scripts from the github [repository](https://github.com/MunchLab/ECT-Leaf-CNN/tree/main/leaf-example-tutorial)
 
@@ -25,9 +25,9 @@ Within the dataloaders.py file, change the image_path in the create_datasets() f
 ### for analysis by plant family
 create the following folder structure within the home directory, a folder for the ect analysis and sub-folders for outline inputs and ect outputs.
 
-+--phylo_ect_analysis
-|    +--outline_input
-|    +--ect_output
++--phylo_ect_analysis  
+|    +--outline_input  
+|    +--ect_output  
 
 additionally, add dataloaders.py, models.py, and utils.py scripts from the github [repository](https://github.com/MunchLab/ECT-Leaf-CNN/tree/main/leaf-example-tutorial)
 
