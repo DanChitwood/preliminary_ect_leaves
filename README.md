@@ -1,9 +1,9 @@
 # preliminary_ect_leaves
 a repository for preliminary analysis of leaf shape using ect (Euler characteristic transform)
 
-leaf shape data, modified to be ordered contour data and saved as `.npy` files, here: https://figshare.com/articles/dataset/Modified_leaf_shape_contour_data/25435936/1
+-  leaf shape data, modified to be ordered contour data and saved as `.npy` files, here: https://figshare.com/articles/dataset/Modified_leaf_shape_contour_data/25435936/1
 
-plant family metadata associated with the Leafsnap and Transect datasets can be found at the following link: https://figshare.com/articles/dataset/LeafMorphospace/4985561/1?file=8392724. the specific file used here to retrieve plant family data is `./LeafMorphospace/Analysis/2.PHYLO_analysis_Figure4/PHYL_sha_desc.txt` and will need to be added to the home directory.
+-  plant family metadata associated with the Leafsnap and Transect datasets can be found at the following link: https://figshare.com/articles/dataset/LeafMorphospace/4985561/1?file=8392724. the specific file used here to retrieve plant family data is `./LeafMorphospace/Analysis/2.PHYLO_analysis_Figure4/PHYL_sha_desc.txt` and will need to be added to the home directory.
 
 note: there are two different functions explored for calculating distances between ECTs, one is at the end of the notebook
 
